@@ -14,7 +14,7 @@
 
 ### 🧩 Featured Projects
 
-- [Portfolio](https://github.com/codingnanyong/portfolio): IoT 센서 모니터링 데이터 플랫폼 (Airflow, FastAPI, Kubernetes)
+- [Portfolio](https://github.com/codingnanyong/portfolio): IoT sensor monitoring data platform (Airflow, FastAPI, Kubernetes)
 - [CSG](https://github.com/codingnanyong/office-csg): Data engineering, OpenAPI, monitoring and IoT monorepo (Prometheus, Grafana, Jenkins)
 - [Medi-Silver](https://github.com/codingnanyong/medi-silver): Android app for prescription QR management (graduation project)
 - [Edu AR](https://github.com/codingnanyong/edu_ar): Unity-based volcano education AR
@@ -69,6 +69,10 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=codingnanyong)](https://github.com/codingnanyong)
+### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=codingnanyong)
+![Codingnanyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingnanyong&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingnanyong&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=codingnanyong&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
