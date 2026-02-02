@@ -3,6 +3,8 @@
 ## Full‑Stack & DevOps / Data Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/codingnanyong?label=Followers&style=flat)
+![Portfolio](https://img.shields.io/github/v/release/codingnanyong/portfolio?include_prereleases&label=Portfolio&style=flat)
 
 - 🔭 I’m currently working on [FDW, OpenAPI, WebService by CSG](https://github.com/codingnanyong/office-csg)
 
@@ -51,6 +53,8 @@
 #### ⚡ Database
 
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4)](https://skillicons.dev)
+
+Oracle, MariaDB: [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 #### 👩‍💻 IDE
 
