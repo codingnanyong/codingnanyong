@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Front-End(React, Svelte...), Back-End(Node.js, Django)**
 
-- 💬 Ask me about **React, ASP.NET**
+- 💬 Ask me about **React, ASP.NET, Python, JavaScript**
 
 - 📫 How to reach me <codingnanyong@gmail.com>
 
@@ -24,6 +24,9 @@
 <!-- markdownlint-disable MD033 -->
 <a href="https://instagram.com/codingnanyong" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="28" height="28" />
+</a>
+<a href="https://velog.io/@codingnanyong" target="_blank" title="Velog">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge" alt="Velog" height="28" />
 </a>
 <!-- markdownlint-enable MD033 -->
 
@@ -71,7 +74,7 @@
 
 ### 📊 GitHub Stats
 
-![Codingnanyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingnanyong&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Codingnanyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingnanyong)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingnanyong)](https://github.com/anuraghazra/github-readme-stats)
 
