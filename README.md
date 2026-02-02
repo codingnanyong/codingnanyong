@@ -7,15 +7,15 @@
 ![Portfolio](https://img.shields.io/github/v/release/codingnanyong/portfolio?include_prereleases&label=Portfolio&style=flat)
 
 - 🔭 Working on **FDW, OpenAPI, and Enterprise Web Services** at **CSG**
-  - Integrated multi-source databases using **PostgreSQL FDW**
-  - Designed **service-oriented APIs (OpenAPI / REST)**
-  - Built **data pipelines using Airflow (Python) & dbt (SQL)**
-  - Containerized and deployed services using **Docker & Kubernetes**
-  🔗 [Repository](https://github.com/codingnanyong/office-csg)
+  - 🗄️ Integrated multi-source databases using **PostgreSQL FDW**
+  - ⚡ Designed **service-oriented APIs (OpenAPI / REST)**
+  - 📊 Built **data pipelines using Airflow (Python) & dbt (SQL)**
+  - 🐳 Containerized and deployed services using **Docker & Kubernetes**
+  - 🔗 [Repository](https://github.com/codingnanyong/office-csg)
 
 - 🌱 Exploring **Full-Stack Development**
-  - Front-End: React, Svelte
-  - Back-End: Node.js
+  - 🎨 Front-End: React, Svelte
+  - ⚙️ Back-End: Node.js
 
 - 💬 Ask me about **Data Engineering, PostgreSQL, React, ASP.NET**
 
