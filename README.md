@@ -52,8 +52,6 @@
 
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4)](https://skillicons.dev)
 
-Oracle, MariaDB: [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-
 #### 👩‍💻 IDE
 
 [![IDE](https://skillicons.dev/icons?i=androidstudio,eclipse,visualstudio,vscode&perline=4)](https://skillicons.dev)
