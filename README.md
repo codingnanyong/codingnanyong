@@ -73,6 +73,6 @@
 
 ![Codingnanyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingnanyong&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingnanyong&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingnanyong)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=codingnanyong&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
