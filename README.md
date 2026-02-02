@@ -4,20 +4,20 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on [FDW, OpenAPI, WebService by CSG](https://github.com/Codingnanyong/csg.git)
+- 🔭 I’m currently working on [FDW, OpenAPI, WebService by CSG](https://github.com/codingnanyong/office-csg)
 
 - 🌱 I’m currently learning **Front-End(React, Svelte...), Back-End(Node.js, Django)**
 
 - 💬 Ask me about **React, ASP.NET**
 
-- 📫 How to reach me [ryu.coding1@gmail.com](mailto:ryu.coding1@gmail.com)
+- 📫 How to reach me <codingnanyong@gmail.com>
 
 ### 🧩 Featured Projects
 
-- [CSG](https://github.com/Codingnanyong/csg): Data engineering, OpenAPI, monitoring and IoT monorepo (Prometheus, Grafana, Jenkins)
-- [Cafe Moha](https://github.com/Codingnanyong/cafe_moha): React + FastAPI cafe ops app (queue, order, closing tasks)
-- [Medisilver](https://github.com/Codingnanyong/medisilver): Android app for prescription QR management (graduation project)
-- [Edu AR](https://github.com/Codingnanyong/edu_ar): Unity-based volcano education AR
+- [Portfolio](https://github.com/codingnanyong/portfolio): IoT 센서 모니터링 데이터 플랫폼 (Airflow, FastAPI, Kubernetes)
+- [CSG](https://github.com/codingnanyong/office-csg): Data engineering, OpenAPI, monitoring and IoT monorepo (Prometheus, Grafana, Jenkins)
+- [Medi-Silver](https://github.com/codingnanyong/medi-silver): Android app for prescription QR management (graduation project)
+- [Edu AR](https://github.com/codingnanyong/edu_ar): Unity-based volcano education AR
 
 ### 🤝 Connect with me
 
@@ -69,10 +69,6 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=codingnanyong)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=codingnanyong)](https://github.com/codingnanyong)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=codingnanyong&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codingnanyong&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codingnanyong)
+![GitHub Streak](https://streak-stats.demolab.com/?user=codingnanyong)
