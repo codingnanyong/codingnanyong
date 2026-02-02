@@ -6,18 +6,25 @@
 ![Followers](https://img.shields.io/github/followers/codingnanyong?label=Followers&style=flat)
 ![Portfolio](https://img.shields.io/github/v/release/codingnanyong/portfolio?include_prereleases&label=Portfolio&style=flat)
 
-- 🔭 I’m currently working on [FDW, OpenAPI, WebService by CSG](https://github.com/codingnanyong/office-csg)
+- 🔭 Working on **FDW, OpenAPI, and Enterprise Web Services** at **CSG**
+  - Integrated multi-source databases using **PostgreSQL FDW**
+  - Designed **service-oriented APIs (OpenAPI / REST)**
+  - Built **data pipelines using Airflow (Python) & dbt (SQL)**
+  - Containerized and deployed services using **Docker & Kubernetes**
+  🔗 [Repository](https://github.com/codingnanyong/office-csg)
 
-- 🌱 I’m currently learning **Front-End(React, Svelte...), Back-End(Node.js, Django)**
+- 🌱 Exploring **Full-Stack Development**
+  - Front-End: React, Svelte
+  - Back-End: Node.js
 
-- 💬 Ask me about **React, ASP.NET, Python, JavaScript**
+- 💬 Ask me about **Data Engineering, PostgreSQL, React, ASP.NET**
 
-- 📫 How to reach me <codingnanyong@gmail.com>
+- 📫 Email: <codingnanyong@gmail.com>
 
 ### 🧩 Featured Projects
 
-- [Portfolio](https://github.com/codingnanyong/portfolio): IoT sensor monitoring data platform (Airflow, FastAPI, Kubernetes)
-- [CSG](https://github.com/codingnanyong/office-csg): Data engineering, OpenAPI, monitoring and IoT monorepo (Prometheus, Grafana, Jenkins)
+- [Portfolio](https://github.com/codingnanyong/portfolio): **Real-time IoT monitoring platform** - Airflow data pipelines, FastAPI backend, Kubernetes orchestration
+- [CSG](https://github.com/codingnanyong/office-csg): **Enterprise data engineering suite** - Data Pipeline, OpenAPI Services, Observability Monitoring, Automated CI/CD with Jenkins
 - [Medi-Silver](https://github.com/codingnanyong/medi-silver): Android app for prescription QR management (graduation project)
 - [Edu AR](https://github.com/codingnanyong/edu_ar): Unity-based volcano education AR
 
@@ -53,8 +60,6 @@
 #### ⚡ Database
 
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4)](https://skillicons.dev)
-
-Oracle, MariaDB: [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 #### 👩‍💻 IDE
 
