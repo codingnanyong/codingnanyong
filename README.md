@@ -24,21 +24,25 @@
 ### 🧩 Featured Projects
 
 #### 🌟 **Core Data & API Services**
+
 - [Portfolio](https://github.com/codingnanyong/portfolio): **Real-time IoT monitoring platform** - Airflow data pipelines, FastAPI backend, Kubernetes orchestration
 - [Data Pipeline](https://github.com/codingnanyong/data-pipeline): **Enterprise Apache Airflow ETL** - 55+ DAGs, multi-source data integration, ML anomaly detection
 - [Open API](https://github.com/codingnanyong/open-api): **Modern FastAPI enterprise service** - Production-ready DevOps pipeline, Jenkins CI/CD, Kubernetes deployment
 - [FDW API](https://github.com/codingnanyong/fdw-api): **PostgreSQL Foreign Data Wrapper service** - ASP.NET Core multi-database integration with OpenAPI documentation
 
 #### 📊 **Monitoring & Analytics**
+
 - [Unified Monitoring API](https://github.com/codingnanyong/unified-montrg-api): **Industrial systems integration** - Comprehensive monitoring with automated testing
 - [Transaction Monitoring](https://github.com/codingnanyong/tr-montrg): **ASP.NET Core monitoring dashboard** - Real-time transaction tracking and business analytics
 - [Observability Stack](https://github.com/codingnanyong/observability): **Prometheus & Grafana monitoring** - Complete infrastructure observability solution
 
 #### 🏭 **Industrial IoT & Edge Computing**
+
 - [PLC Extractor](https://github.com/codingnanyong/plc-extractor): **Industrial PLC data service** - Python-based Programmable Logic Controller data extraction
 - [Edge HMI](https://github.com/codingnanyong/edge-hmi): **Human Machine Interface system** - Industrial edge computing data collection platform
 
 #### 🛠️ **DevOps & Infrastructure**
+
 - [Kubernetes Guide](https://github.com/codingnanyong/k8s-guide): **Enterprise Kubernetes deployment** - Production setup guide with troubleshooting documentation
 - [Docker Private Registry](https://github.com/codingnanyong/docker-registry): **Container registry solution** - Private Docker registry with web interface and SSL
 
