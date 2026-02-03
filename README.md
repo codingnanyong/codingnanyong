@@ -44,7 +44,7 @@
 #### 🛠️ **DevOps & Infrastructure**
 
 - [Kubernetes Guide](https://github.com/codingnanyong/k8s-guide): **Enterprise Kubernetes deployment** - Production setup guide with troubleshooting documentation
-- [Docker Private Registry](https://github.com/codingnanyong/docker-registry): **Container registry solution** - Private Docker registry with web interface and SSL
+- [Docker Private Registry](https://github.com/codingnanyong/docker-private-registry): **Container registry solution** - Private Docker registry with web interface and SSL
 
 #### 🤖 **Algorithms & Tools**
 - [Genetic Algorithm Engine](https://github.com/codingnanyong/genetic-optimization-engine): **Java optimization framework** - Advanced GA implementation for enterprise resource allocation
