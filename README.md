@@ -47,10 +47,12 @@
 - [Docker Private Registry](https://github.com/codingnanyong/docker-private-registry): **Container registry solution** - Private Docker registry with web interface and SSL
 
 #### 🤖 **Algorithms & Tools**
+
 - [Genetic Algorithm Engine](https://github.com/codingnanyong/genetic-optimization-engine): **Java optimization framework** - Advanced GA implementation for enterprise resource allocation
 - [Automated ETL Tool](https://github.com/codingnanyong/auto-etl): **Multi-database ETL utility** - C# console application for cross-platform data integration
 
 #### 📱 **Mobile & AR Applications**
+
 - [Medi-Silver](https://github.com/codingnanyong/medi-silver): **Android prescription management** - QR code-based medical prescription system (graduation project)
 - [Edu AR](https://github.com/codingnanyong/edu_ar): **Unity educational AR app** - Interactive volcano education with augmented reality
 
