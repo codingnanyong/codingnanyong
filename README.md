@@ -1,25 +1,27 @@
-# Hi 👋, I'm TaeHyeon Ryu (Codingnanyong)
+# Hi 👋 I'm TaeHyeon Ryu (codingnanyong)
 
-## Full‑Stack & DevOps / Data Engineer
+## Full-Stack & DevOps | Data Engineer
 
-![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/codingnanyong?label=Followers&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)  
+![Followers](https://img.shields.io/github/followers/codingnanyong?label=Followers&style=flat)  
 ![Portfolio](https://img.shields.io/github/v/release/codingnanyong/portfolio?include_prereleases&label=Portfolio&style=flat)
 
-- 🔭 Working on **Enterprise Data Engineering & API Services**
-  - 🗄️ Integrated multi-source databases using **PostgreSQL FDW**
-  - ⚡ Designed **service-oriented APIs (OpenAPI / REST)**
-  - 📊 Built **data pipelines using Airflow (Python) & dbt (SQL)**
-  - 🐳 Containerized and deployed services using **Docker & Kubernetes**
-  - 🧬 Developed **genetic algorithms for optimization problems**
+I design and build reliable data platforms and APIs for enterprise use — from data pipelines to containerized services running on Kubernetes. I enjoy solving performance and integration challenges, and applying automation to make development and operations efficient.
 
-- 🌱 Exploring **Full-Stack Development**
-  - 🎨 Front-End: React, Svelte
+- 🔭 Currently working on: Enterprise Data Engineering & API Services  
+  - 🗄️ Integrating multi-source databases using PostgreSQL FDW  
+  - ⚡ Designing service-oriented APIs (OpenAPI / REST)  
+  - 📊 Building data pipelines with Apache Airflow (Python) and dbt (SQL)  
+  - 🐳 Containerizing and deploying services with Docker & Kubernetes  
+  - 🧬 Implementing genetic algorithms for optimization problems
+
+- 🌱 Learning & exploring: Full-Stack Development  
+  - 🎨 Front-End: React, Svelte  
   - ⚙️ Back-End: Node.js
 
-- 💬 Ask me about **Data Engineering, PostgreSQL, React, ASP.NET**
+- 💬 Ask me about: Data Engineering, PostgreSQL, React, ASP.NET
 
-- 📫 Email: <codingnanyong@gmail.com>
+- 📫 Contact: codingnanyong@gmail.com
 
 ### 🧩 Featured Projects
 
@@ -85,11 +87,12 @@
 <a href="https://velog.io/@codingnanyong" target="_blank" title="Velog">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" height="28" />
 </a>
+
 <!-- markdownlint-enable MD033 -->
 
 ### 🛠️ Tech Stack
 
-#### 🔠 Language
+#### 🔠 Languages
 
 [![Language](https://skillicons.dev/icons?i=cs,js,java,py,dart&perline=5)](https://skillicons.dev)
 
@@ -101,11 +104,11 @@
 
 [![Back-End](https://skillicons.dev/icons?i=nodejs,express,spring&perline=3)](https://skillicons.dev)
 
-#### ⚡ Database
+#### ⚡ Databases
 
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4)](https://skillicons.dev)
 
-#### 👩‍💻 IDE
+#### 👩‍💻 IDEs
 
 [![IDE](https://skillicons.dev/icons?i=androidstudio,eclipse,visualstudio,vscode&perline=4)](https://skillicons.dev)
 
