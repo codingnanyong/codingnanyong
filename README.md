@@ -117,11 +117,3 @@ I design and build reliable data platforms and APIs for enterprise use — from 
 [![IDE](https://skillicons.dev/icons?i=androidstudio,eclipse,visualstudio,vscode&perline=4)](https://skillicons.dev)
 
 Powered by [skill-icons](https://github.com/tandpfun/skill-icons).
-
-### 📊 GitHub Stats
-
-![Codingnanyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingnanyong)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingnanyong)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=codingnanyong&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
