@@ -34,6 +34,7 @@
 
 - [Unified Monitoring API](https://github.com/codingnanyong/unified-montrg-api): **Industrial systems integration** - Comprehensive monitoring with automated testing
 - [Transaction Monitoring](https://github.com/codingnanyong/tr-montrg): **ASP.NET Core monitoring dashboard** - Real-time transaction tracking and business analytics
+- [Flet Monitoring](https://github.com/codingnanyong/flet-montrg): **IoT sensor monitoring** - Apparent temperature data, FastAPI microservices, Kubernetes
 - [Observability Stack](https://github.com/codingnanyong/observability): **Prometheus & Grafana monitoring** - Complete infrastructure observability solution
 
 #### 🏭 **Industrial IoT & Edge Computing**
@@ -44,12 +45,15 @@
 #### 🛠️ **DevOps & Infrastructure**
 
 - [Kubernetes Guide](https://github.com/codingnanyong/k8s-guide): **Enterprise Kubernetes deployment** - Production setup guide with troubleshooting documentation
+- [Hadoop on K8s](https://github.com/codingnanyong/hadoop-k8s-demo): **HDFS + YARN on Kubernetes** - kubeadm-based test cluster with deploy scripts
 - [Docker Private Registry](https://github.com/codingnanyong/docker-private-registry): **Container registry solution** - Private Docker registry with web interface and SSL
+- [Data Engineering POC](https://github.com/codingnanyong/data-engineering-poc): **Docker Compose POC** - PostgreSQL, MongoDB, InfluxDB, Registry, offline Docker install
 
 #### 🤖 **Algorithms & Tools**
 
 - [Genetic Algorithm Engine](https://github.com/codingnanyong/genetic-optimization-engine): **Java optimization framework** - Advanced GA implementation for enterprise resource allocation
 - [Automated ETL Tool](https://github.com/codingnanyong/auto-etl): **Multi-database ETL utility** - C# console application for cross-platform data integration
+- [Data Editor](https://github.com/codingnanyong/data-editor): **CSV/IoT log utilities** - Clean and transform datasets with Python and Pandas
 
 #### 📱 **Mobile & AR Applications**
 
