@@ -1,120 +1,43 @@
 # Hi 👋 I'm TaeHyeon Ryu (codingnanyong)
 
-## Full-Stack & DevOps | Data Engineer
+## Data Engineer · Full-Stack & DevOps
 
 ![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
-![Portfolio](https://img.shields.io/github/v/release/codingnanyong/portfolio?include_prereleases&label=Portfolio&style=flat)
 [![wakatime](https://wakatime.com/badge/user/fba7e3ec-8559-430d-b90d-013564019063.svg)](https://wakatime.com/@fba7e3ec-8559-430d-b90d-013564019063)
-![Last commit](https://img.shields.io/github/last-commit/codingnanyong/codingnanyong?style=flat)
 
-I design and build reliable data platforms and APIs for enterprise use — from data pipelines to containerized services running on Kubernetes. I enjoy solving performance and integration challenges, and applying automation to make development and operations efficient.
+Data platforms & APIs — Airflow, FastAPI, Kubernetes, PostgreSQL. Into automation and performance.
 
-- 🔭 Currently working on: Enterprise Data Engineering & API Services  
-  - 🗄️ Integrating multi-source databases using PostgreSQL FDW  
-  - ⚡ Designing service-oriented APIs (OpenAPI / REST)  
-  - 📊 Building data pipelines with Apache Airflow (Python) and dbt (SQL)  
-  - 🐳 Containerizing and deploying services with Docker & Kubernetes  
-  - 🧬 Implementing genetic algorithms for optimization problems
+- 🔭 Building data pipelines, FDW, REST APIs, and containerized services (Docker/K8s).
+- 🌱 Always learning — Data Engineering and software development.
+- 💻 [Portfolio](https://github.com/codingnanyong/portfolio) — projects and more about me.
 
-- 🌱 Learning & exploring: Full-Stack Development  
-  - 🎨 Front-End: React, Svelte  
-  - ⚙️ Back-End: Node.js
-
-- 💬 Ask me about: Data Engineering, PostgreSQL, React, ASP.NET
-
-- 📫 Contact: <codingnanyong@gmail.com>
-
-### 🧩 Featured Projects
-
-#### 🌟 Core Data & API Services
-
-| Project | Description |
-| --- | --- |
-| [**Portfolio**](https://github.com/codingnanyong/portfolio) | Real-time IoT monitoring — Airflow, FastAPI, Kubernetes |
-| [**Data Pipeline**](https://github.com/codingnanyong/data-pipeline) | Apache Airflow ETL — 55+ DAGs, multi-source integration, ML anomaly detection |
-| [**Open API**](https://github.com/codingnanyong/open-api) | FastAPI enterprise service — Jenkins CI/CD, Kubernetes |
-| [**FDW API**](https://github.com/codingnanyong/fdw-api) | PostgreSQL FDW service — ASP.NET Core, OpenAPI |
-
-#### 📊 Monitoring & Analytics
-
-| Project | Description |
-| --- | --- |
-| [**Unified Monitoring API**](https://github.com/codingnanyong/unified-montrg-api) | Industrial systems integration — comprehensive monitoring, automated tests |
-| [**Transaction Monitoring**](https://github.com/codingnanyong/tr-montrg) | ASP.NET Core dashboard — real-time transaction tracking, business analytics |
-| [**Flet Monitoring**](https://github.com/codingnanyong/flet-montrg) | IoT sensor monitoring — apparent temperature, FastAPI microservices, K8s |
-| [**Observability Stack**](https://github.com/codingnanyong/observability) | Prometheus & Grafana — infrastructure observability |
-
-#### 🏭 Industrial IoT & Edge Computing
-
-| Project | Description |
-| --- | --- |
-| [**PLC Extractor**](https://github.com/codingnanyong/plc-extractor) | Industrial PLC data service — Python-based data extraction |
-| [**Edge HMI**](https://github.com/codingnanyong/edge-hmi) | Human Machine Interface — edge computing data collection |
-
-#### 🛠️ DevOps & Infrastructure
-
-| Project | Description |
-| --- | --- |
-| [**Kubernetes Guide**](https://github.com/codingnanyong/k8s-guide) | Enterprise K8s deployment — setup guide, troubleshooting |
-| [**Hadoop on K8s**](https://github.com/codingnanyong/hadoop-k8s-demo) | HDFS + YARN on Kubernetes — kubeadm, deploy scripts |
-| [**Docker Private Registry**](https://github.com/codingnanyong/docker-private-registry) | Private registry — web UI, SSL, cert/script serving |
-| [**Data Engineering POC**](https://github.com/codingnanyong/data-engineering-poc) | Docker Compose POC — PostgreSQL, MongoDB, InfluxDB, Registry, offline install |
-
-#### 🤖 Algorithms & Tools
-
-| Project | Description |
-| --- | --- |
-| [**Genetic Algorithm Engine**](https://github.com/codingnanyong/genetic-optimization-engine) | Java optimization — GA for resource allocation |
-| [**Automated ETL Tool**](https://github.com/codingnanyong/auto-etl) | Multi-database ETL — C# console, cross-platform |
-| [**Data Editor**](https://github.com/codingnanyong/data-editor) | CSV/IoT log utilities — Python, Pandas |
-
-#### 📱 Mobile & AR Applications
-
-| Project | Description |
-| --- | --- |
-| [**Medi-Silver**](https://github.com/codingnanyong/medi-silver) | Android prescription — QR-based medical prescription (graduation project) |
-| [**Edu AR**](https://github.com/codingnanyong/edu_ar) | Unity educational AR — interactive volcano education |
-
-### 🤝 Connect with me
+## 🌐 Socials
 
 <!-- markdownlint-disable MD033 -->
-
-<a href="https://instagram.com/codingnanyong" target="_blank" title="Instagram">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="32" height="32" />
-</a>
-<a href="mailto:codingnanyong@gmail.com" title="Gmail">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="32" height="32" />
-</a>
-<a href="https://velog.io/@codingnanyong" target="_blank" title="Velog">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" height="28" />
-</a>
-
+<a href="https://instagram.com/codingnanyong" target="_blank" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /></a>
+<a href="mailto:codingnanyong@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" /></a>
+<a href="https://velog.io/@codingnanyong" target="_blank" title="Velog"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" height="40" /></a>
 <!-- markdownlint-enable MD033 -->
 
-### 🛠️ Tech Stack
+## 🛠️ Stack
 
-#### 🔠 Languages
+[![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
 
-[![Language](https://skillicons.dev/icons?i=cs,js,java,py,dart&perline=5)](https://skillicons.dev)
-
-#### 🚀 Front-End
-
-[![Front-End](https://skillicons.dev/icons?i=html,bootstrap,jquery,dotnet,react,flutter&perline=6)](https://skillicons.dev)
-
-#### 🚀 Back-End
-
-[![Back-End](https://skillicons.dev/icons?i=nodejs,express,spring&perline=3)](https://skillicons.dev)
-
-#### ⚡ Databases
-
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4)](https://skillicons.dev)
-
-#### 👩‍💻 IDEs
-
-[![IDE](https://skillicons.dev/icons?i=androidstudio,eclipse,visualstudio,vscode&perline=4)](https://skillicons.dev)
-
-Powered by [skill-icons](https://github.com/tandpfun/skill-icons).
-
-### 📊 GitHub Stats
+## 📊 Stats
 
 ![codingnanyong github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=codingnanyong)
