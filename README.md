@@ -22,7 +22,7 @@ I design and build reliable data platforms and APIs for enterprise use — from 
 
 - 💬 Ask me about: Data Engineering, PostgreSQL, React, ASP.NET
 
-- 📫 Contact: [codingnanyong@gmail.com]
+- 📫 Contact: <codingnanyong@gmail.com>
 
 ### 🧩 Featured Projects
 
