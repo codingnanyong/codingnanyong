@@ -2,8 +2,8 @@
 
 ## Full-Stack & DevOps | Data Engineer
 
-![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)  
-![Followers](https://img.shields.io/github/followers/codingnanyong?label=Followers&style=flat)  
+![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/codingnanyong?label=Followers&style=flat)
 ![Portfolio](https://img.shields.io/github/v/release/codingnanyong/portfolio?include_prereleases&label=Portfolio&style=flat)
 
 I design and build reliable data platforms and APIs for enterprise use — from data pipelines to containerized services running on Kubernetes. I enjoy solving performance and integration challenges, and applying automation to make development and operations efficient.
