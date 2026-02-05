@@ -117,3 +117,10 @@ I design and build reliable data platforms and APIs for enterprise use — from 
 [![IDE](https://skillicons.dev/icons?i=androidstudio,eclipse,visualstudio,vscode&perline=4)](https://skillicons.dev)
 
 Powered by [skill-icons](https://github.com/tandpfun/skill-icons).
+
+### 📊 GitHub Stats
+
+[![Codingnanyong's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=codingnanyong&show_icons=true&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=codingnanyong&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codingnanyong&layout=donut-vertical&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
+[![Codingnanyong's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=codingnanyong&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)
