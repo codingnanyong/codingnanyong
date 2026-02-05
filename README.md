@@ -4,10 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
 ![Portfolio](https://img.shields.io/github/v/release/codingnanyong/portfolio?include_prereleases&label=Portfolio&style=flat)
-![Followers](https://img.shields.io/github/followers/codingnanyong?label=Followers&style=flat)
-![Forks](https://img.shields.io/github/forks/codingnanyong/codingnanyong?style=flat)
-![Top language](https://img.shields.io/github/languages/top/codingnanyong/codingnanyong?style=flat)
-![Repo stars](https://img.shields.io/github/stars/codingnanyong/codingnanyong?style=social)
+[![wakatime](https://wakatime.com/badge/user/fba7e3ec-8559-430d-b90d-013564019063.svg)](https://wakatime.com/@fba7e3ec-8559-430d-b90d-013564019063)
 ![Last commit](https://img.shields.io/github/last-commit/codingnanyong/codingnanyong?style=flat)
 
 I design and build reliable data platforms and APIs for enterprise use — from data pipelines to containerized services running on Kubernetes. I enjoy solving performance and integration challenges, and applying automation to make development and operations efficient.
