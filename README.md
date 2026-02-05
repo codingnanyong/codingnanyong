@@ -119,6 +119,5 @@ Powered by [skill-icons](https://github.com/tandpfun/skill-icons).
 
 [![Codingnanyong's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=codingnanyong&show_icons=true&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=codingnanyong&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)  
-
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codingnanyong&layout=donut-vertical&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codingnanyong&layout=donut&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
 [![Codingnanyong's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=codingnanyong&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)
