@@ -23,42 +23,54 @@
 
 ### 🧩 Featured Projects
 
-#### 🌟 **Core Data & API Services**
+#### 🌟 Core Data & API Services
 
-- [Portfolio](https://github.com/codingnanyong/portfolio): **Real-time IoT monitoring platform** - Airflow data pipelines, FastAPI backend, Kubernetes orchestration
-- [Data Pipeline](https://github.com/codingnanyong/data-pipeline): **Enterprise Apache Airflow ETL** - 55+ DAGs, multi-source data integration, ML anomaly detection
-- [Open API](https://github.com/codingnanyong/open-api): **Modern FastAPI enterprise service** - Production-ready DevOps pipeline, Jenkins CI/CD, Kubernetes deployment
-- [FDW API](https://github.com/codingnanyong/fdw-api): **PostgreSQL Foreign Data Wrapper service** - ASP.NET Core multi-database integration with OpenAPI documentation
+| Project | Description |
+| --- | --- |
+| [**Portfolio**](https://github.com/codingnanyong/portfolio) | Real-time IoT monitoring — Airflow, FastAPI, Kubernetes |
+| [**Data Pipeline**](https://github.com/codingnanyong/data-pipeline) | Apache Airflow ETL — 55+ DAGs, multi-source integration, ML anomaly detection |
+| [**Open API**](https://github.com/codingnanyong/open-api) | FastAPI enterprise service — Jenkins CI/CD, Kubernetes |
+| [**FDW API**](https://github.com/codingnanyong/fdw-api) | PostgreSQL FDW service — ASP.NET Core, OpenAPI |
 
-#### 📊 **Monitoring & Analytics**
+#### 📊 Monitoring & Analytics
 
-- [Unified Monitoring API](https://github.com/codingnanyong/unified-montrg-api): **Industrial systems integration** - Comprehensive monitoring with automated testing
-- [Transaction Monitoring](https://github.com/codingnanyong/tr-montrg): **ASP.NET Core monitoring dashboard** - Real-time transaction tracking and business analytics
-- [Flet Monitoring](https://github.com/codingnanyong/flet-montrg): **IoT sensor monitoring** - Apparent temperature data, FastAPI microservices, Kubernetes
-- [Observability Stack](https://github.com/codingnanyong/observability): **Prometheus & Grafana monitoring** - Complete infrastructure observability solution
+| Project | Description |
+| --- | --- |
+| [**Unified Monitoring API**](https://github.com/codingnanyong/unified-montrg-api) | Industrial systems integration — comprehensive monitoring, automated tests |
+| [**Transaction Monitoring**](https://github.com/codingnanyong/tr-montrg) | ASP.NET Core dashboard — real-time transaction tracking, business analytics |
+| [**Flet Monitoring**](https://github.com/codingnanyong/flet-montrg) | IoT sensor monitoring — apparent temperature, FastAPI microservices, K8s |
+| [**Observability Stack**](https://github.com/codingnanyong/observability) | Prometheus & Grafana — infrastructure observability |
 
-#### 🏭 **Industrial IoT & Edge Computing**
+#### 🏭 Industrial IoT & Edge Computing
 
-- [PLC Extractor](https://github.com/codingnanyong/plc-extractor): **Industrial PLC data service** - Python-based Programmable Logic Controller data extraction
-- [Edge HMI](https://github.com/codingnanyong/edge-hmi): **Human Machine Interface system** - Industrial edge computing data collection platform
+| Project | Description |
+| --- | --- |
+| [**PLC Extractor**](https://github.com/codingnanyong/plc-extractor) | Industrial PLC data service — Python-based data extraction |
+| [**Edge HMI**](https://github.com/codingnanyong/edge-hmi) | Human Machine Interface — edge computing data collection |
 
-#### 🛠️ **DevOps & Infrastructure**
+#### 🛠️ DevOps & Infrastructure
 
-- [Kubernetes Guide](https://github.com/codingnanyong/k8s-guide): **Enterprise Kubernetes deployment** - Production setup guide with troubleshooting documentation
-- [Hadoop on K8s](https://github.com/codingnanyong/hadoop-k8s-demo): **HDFS + YARN on Kubernetes** - kubeadm-based test cluster with deploy scripts
-- [Docker Private Registry](https://github.com/codingnanyong/docker-private-registry): **Container registry solution** - Private Docker registry with web interface and SSL
-- [Data Engineering POC](https://github.com/codingnanyong/data-engineering-poc): **Docker Compose POC** - PostgreSQL, MongoDB, InfluxDB, Registry, offline Docker install
+| Project | Description |
+| --- | --- |
+| [**Kubernetes Guide**](https://github.com/codingnanyong/k8s-guide) | Enterprise K8s deployment — setup guide, troubleshooting |
+| [**Hadoop on K8s**](https://github.com/codingnanyong/hadoop-k8s-demo) | HDFS + YARN on Kubernetes — kubeadm, deploy scripts |
+| [**Docker Private Registry**](https://github.com/codingnanyong/docker-private-registry) | Private registry — web UI, SSL, cert/script serving |
+| [**Data Engineering POC**](https://github.com/codingnanyong/data-engineering-poc) | Docker Compose POC — PostgreSQL, MongoDB, InfluxDB, Registry, offline install |
 
-#### 🤖 **Algorithms & Tools**
+#### 🤖 Algorithms & Tools
 
-- [Genetic Algorithm Engine](https://github.com/codingnanyong/genetic-optimization-engine): **Java optimization framework** - Advanced GA implementation for enterprise resource allocation
-- [Automated ETL Tool](https://github.com/codingnanyong/auto-etl): **Multi-database ETL utility** - C# console application for cross-platform data integration
-- [Data Editor](https://github.com/codingnanyong/data-editor): **CSV/IoT log utilities** - Clean and transform datasets with Python and Pandas
+| Project | Description |
+| --- | --- |
+| [**Genetic Algorithm Engine**](https://github.com/codingnanyong/genetic-optimization-engine) | Java optimization — GA for resource allocation |
+| [**Automated ETL Tool**](https://github.com/codingnanyong/auto-etl) | Multi-database ETL — C# console, cross-platform |
+| [**Data Editor**](https://github.com/codingnanyong/data-editor) | CSV/IoT log utilities — Python, Pandas |
 
-#### 📱 **Mobile & AR Applications**
+#### 📱 Mobile & AR Applications
 
-- [Medi-Silver](https://github.com/codingnanyong/medi-silver): **Android prescription management** - QR code-based medical prescription system (graduation project)
-- [Edu AR](https://github.com/codingnanyong/edu_ar): **Unity educational AR app** - Interactive volcano education with augmented reality
+| Project | Description |
+| --- | --- |
+| [**Medi-Silver**](https://github.com/codingnanyong/medi-silver) | Android prescription — QR-based medical prescription (graduation project) |
+| [**Edu AR**](https://github.com/codingnanyong/edu_ar) | Unity educational AR — interactive volcano education |
 
 ### 🤝 Connect with me
 
