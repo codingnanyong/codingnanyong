@@ -7,7 +7,7 @@
 
 Data platforms & APIs — Airflow, FastAPI, Kubernetes, PostgreSQL. Into automation and performance.
 
-- 🔭 Data pipelines, REST APIs, Docker/K8s · React (JS/TS): [docker-private-registry](https://github.com/codingnanyong/docker-private-registry), [edge-hmi](https://github.com/codingnanyong/edge-hmi)
+- 🔭 Data pipelines, REST APIs, Docker/K8s · React (JS/TS)
 - 🌱 Learning — Data Engineering & dev
 - 💻 [Portfolio](https://github.com/codingnanyong/portfolio) — projects and more about me.
 
