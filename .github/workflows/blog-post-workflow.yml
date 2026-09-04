@@ -21,5 +21,4 @@ jobs:
           feed_list: "https://v2.velog.io/rss/@codingnanyong,https://medium.com/feed/@codingnanyong"
           feed_names: "Velog,Medium"
           max_post_count: 5
-          date_format: "MMM DD, YYYY"
-          template: "- $emojiKey(📗,✍️) **[$title]($url)** &nbsp; <sub>$feedName · $date</sub>$newline"
+          template: "- **[$title]($url)** <sub>$feedName</sub>$newline"

@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img align="right" src="assets/coding-dragon-pixel.png" width="420" alt="codingnanyong pixel avatar" />
+<img src="assets/coding-dragon-pixel.png" width="240" alt="codingnanyong pixel avatar" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=36BCF7&lines=Data+Engineer+%C2%B7+Backend+Developer" alt="Typing SVG" /></a><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=E25A1C&lines=Airflow+%C2%B7+Kafka+%C2%B7+Spark+%C2%B7+Hadoop" alt="Typing SVG" /></a><br/>
@@ -15,8 +15,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=2496ED&lines=Docker+%C2%B7+Kubernetes" alt="Typing SVG" /></a><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=F46800&lines=Prometheus+%C2%B7+Grafana" alt="Typing SVG" /></a><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=FFD43B&lines=Automation+%26+Performance" alt="Typing SVG" /></a>
-
-<br clear="both"/>
 
 </div>
 
