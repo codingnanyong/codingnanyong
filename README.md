@@ -37,9 +37,8 @@
 
 ## 📝 Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Codigdex #01 — Starting the Codigdex](https://medium.com/@codingnanyong/codigdex-01-starting-the-codigdex-f85e94089388?source=rss-f49d4fac340b------2)
-- [코딩 도감 #01 — 코딩 도감을 시작하며](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-No.001-Git)
+<!-- BLOG-POST-LIST:START -->- 📗 **[Codigdex #01 — Starting the Codigdex](https://medium.com/@codingnanyong/codigdex-01-starting-the-codigdex-f85e94089388?source=rss-f49d4fac340b------2)** &nbsp; <sub>Medium · 1818 DD, YYYY</sub>
+- ✍️ **[코딩 도감 #01 — 코딩 도감을 시작하며](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-No.001-Git)** &nbsp; <sub>Velog · 1111 DD, YYYY</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
