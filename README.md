@@ -1,11 +1,11 @@
+<div align="center">
+
 # Codingnanyong Profile
 
-## Data Engineer · Full-Stack & DevOps
+## 🧑‍💻 Data Engineer · Full-Stack & DevOps
 
 ![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/fba7e3ec-8559-430d-b90d-013564019063.svg)](https://wakatime.com/@fba7e3ec-8559-430d-b90d-013564019063)
-
-<div align="center">
 
 <img src="assets/coding-dragon-pixel.png" width="240" alt="codingnanyong pixel avatar" />
 
