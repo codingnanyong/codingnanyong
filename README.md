@@ -6,6 +6,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=codingnanyong&label=Profile%20views&color=0e75b6&style=flat)
 [![wakatime](https://wakatime.com/badge/user/fba7e3ec-8559-430d-b90d-013564019063.svg)](https://wakatime.com/@fba7e3ec-8559-430d-b90d-013564019063)
+[![Followers](https://img.shields.io/github/followers/codingnanyong?style=flat&logo=github&label=Followers)](https://github.com/codingnanyong)
+![Last commit](https://img.shields.io/github/last-commit/codingnanyong/codingnanyong?style=flat)
 
 <img src="assets/coding-dragon-pixel.png" width="240" alt="codingnanyong pixel avatar" />
 
