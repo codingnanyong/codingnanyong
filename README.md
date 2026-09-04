@@ -6,17 +6,17 @@
 [![wakatime](https://wakatime.com/badge/user/fba7e3ec-8559-430d-b90d-013564019063.svg)](https://wakatime.com/@fba7e3ec-8559-430d-b90d-013564019063)
 
 <div align="center">
-<table width="100%"><tr>
-<td width="50%" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=1800&repeat=false&center=true&vCenter=true&width=380&height=48&color=36BCF7&lines=Data+Engineer+%C2%B7+Backend+Developer" alt="Typing SVG" /></a><br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=1800&repeat=false&center=true&vCenter=true&width=380&height=48&color=E25A1C&lines=Airflow+%C2%B7+Kafka+%C2%B7+Spark+%C2%B7+Hadoop" alt="Typing SVG" /></a><br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=1800&repeat=false&center=true&vCenter=true&width=380&height=48&color=009688&lines=FastAPI+%C2%B7+PostgreSQL" alt="Typing SVG" /></a><br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=1800&repeat=false&center=true&vCenter=true&width=380&height=48&color=2496ED&lines=Docker+%C2%B7+Kubernetes" alt="Typing SVG" /></a><br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=1800&repeat=false&center=true&vCenter=true&width=380&height=48&color=F46800&lines=Prometheus+%C2%B7+Grafana" alt="Typing SVG" /></a><br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=28&duration=1800&repeat=false&center=true&vCenter=true&width=380&height=48&color=FFD43B&lines=Automation+%26+Performance" alt="Typing SVG" /></a>
-</td>
-<td width="50%" align="center"><img src="assets/coding-dragon-pixel.png" width="200" alt="codingnanyong pixel avatar" /></td>
-</tr></table>
+
+<img align="right" src="assets/coding-dragon-pixel.png" width="420" alt="codingnanyong pixel avatar" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=36BCF7&lines=Data+Engineer+%C2%B7+Backend+Developer" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=E25A1C&lines=Airflow+%C2%B7+Kafka+%C2%B7+Spark+%C2%B7+Hadoop" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=009688&lines=FastAPI+%C2%B7+PostgreSQL" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=2496ED&lines=Docker+%C2%B7+Kubernetes" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=F46800&lines=Prometheus+%C2%B7+Grafana" alt="Typing SVG" /></a><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&duration=1800&repeat=false&center=true&vCenter=true&width=480&height=54&color=FFD43B&lines=Automation+%26+Performance" alt="Typing SVG" /></a>
+
+<br clear="both"/>
 
 </div>
 
@@ -82,8 +82,11 @@
 
 ## 📊 Stats
 
-![codingnanyong github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=codingnanyong#gh-dark-mode-only)
-![codingnanyong github-stats](https://github-readme-stats-fast.vercel.app/api?username=codingnanyong&show_icons=true&theme=default&card_width=370#gh-light-mode-only)
+<div align="center">
+
+![codingnanyong github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=codingnanyong)
 
 ![contribution snake](https://raw.githubusercontent.com/codingnanyong/codingnanyong/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![contribution snake](https://raw.githubusercontent.com/codingnanyong/codingnanyong/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
