@@ -21,4 +21,4 @@ jobs:
           feed_list: "https://v2.velog.io/rss/@codingnanyong,https://medium.com/feed/@codingnanyong"
           feed_names: "Velog,Medium"
           max_post_count: 5
-          template: "- **[$title]($url)** <sub>$feedName</sub>$newline"
+          template: "$newline- **[$title]($url)** <sub>$feedName</sub>"
