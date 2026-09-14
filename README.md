@@ -38,11 +38,11 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Codigdex #01 — Undoing Things and Merge Conflicts, Facing Your Mistakes](https://medium.com/@codingnanyong/codigdex-01-undoing-things-and-merge-conflicts-facing-your-mistakes-3e5b405f3f34?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[코딩 도감 #01 — 되돌리기와 Merge Conflict, 실수와 마주하는 법](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-01-%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0%EC%99%80-Merge-Conflict-%EC%8B%A4%EC%88%98%EC%99%80-%EB%A7%88%EC%A3%BC%ED%95%98%EB%8A%94-%EB%B2%95)** <sub>Velog</sub>
 - **[Codigdex #01 — Branch and Merge, Handling Parallel Worlds](https://medium.com/@codingnanyong/codigdex-01-branch-and-merge-handling-parallel-worlds-ab9497e2c990?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[Codigdex #01 — Starting the Codigdex](https://medium.com/@codingnanyong/codigdex-01-starting-the-codigdex-f85e94089388?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
-- **[코딩 도감 #01 — Branch와 Merge, 평행세계를 다루는 법](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-01-Branch%EC%99%80-Merge-%ED%8F%89%ED%96%89%EC%84%B8%EA%B3%84%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B2%95)** <sub>Velog</sub>
-- **[코딩 도감 #01 — 코딩 도감을 시작하며](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-No.001-Git)** <sub>Velog</sub><!-- BLOG-POST-LIST:END -->
+- **[코딩 도감 #01 — Branch와 Merge, 평행세계를 다루는 법](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-01-Branch%EC%99%80-Merge-%ED%8F%89%ED%96%89%EC%84%B8%EA%B3%84%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B2%95)** <sub>Velog</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
