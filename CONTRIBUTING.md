@@ -33,6 +33,6 @@ Thank you for your interest in contributing to this project. This document provi
 ## Questions?
 
 - Open a Discussion for general questions
-- Contact: codingnanyong@gmail.com
+- Contact: <codingnanyong@gmail.com>
 
 Thanks for contributing!

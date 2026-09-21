@@ -28,12 +28,10 @@
 
 ## 🌐 Socials
 
-<!-- markdownlint-disable MD033 -->
 <a href="https://instagram.com/codingnanyong" target="_blank" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" /></a>
 <a href="mailto:codingnanyong@gmail.com" title="Gmail"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" /></a>
 <a href="https://velog.io/@codingnanyong" target="_blank" title="Velog"><img src="https://cdn.simpleicons.org/velog" alt="Velog" width="40" height="40" /></a>
 <a href="https://medium.com/@codingnanyong" target="_blank" title="Medium"><img src="https://cdn.simpleicons.org/medium" alt="Medium" width="40" height="40" /></a>
-<!-- markdownlint-enable MD033 -->
 
 ## 📝 Latest Posts
 
@@ -46,7 +44,7 @@
 
 ## 🛠️ Stack
 
-**Languages**
+### Languages
 
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
@@ -55,7 +53,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
 
-**Frontend & Backend**
+### Frontend & Backend
 
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
@@ -67,7 +65,7 @@
 [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
-**Data & Infra**
+### Data & Infra
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)](https://www.oracle.com/database/)
