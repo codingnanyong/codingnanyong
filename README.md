@@ -36,11 +36,11 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[코딩 도감 #02 — Linux 첫 조우: 셸과 터미널](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EC%B2%AB-%EC%A1%B0%EC%9A%B0-%EC%85%B8%EA%B3%BC-%ED%84%B0%EB%AF%B8%EB%84%90)** <sub>Velog</sub>
 - **[Codigdex #01 — The Collaboration Workflow, and Git’s Registration](https://medium.com/@codingnanyong/codigdex-01-the-collaboration-workflow-and-gits-registration-e90e354c451f?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[Codigdex #01 — Remotes and Rebase, Rebuilding History](https://medium.com/@codingnanyong/codigdex-01-remotes-and-rebase-rebuilding-history-01dead0d727b?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[Codigdex #01 — Undoing Things and Merge Conflicts, Facing Your Mistakes](https://medium.com/@codingnanyong/codigdex-01-undoing-things-and-merge-conflicts-facing-your-mistakes-3e5b405f3f34?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
-- **[코딩 도감 #01 — 협업 워크플로우, 그리고 Git 등록 완료](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-01-%ED%98%91%EC%97%85-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Git-%EB%93%B1%EB%A1%9D-%EC%99%84%EB%A3%8C)** <sub>Velog</sub>
-- **[코딩 도감 #01 — 원격 저장소와 Rebase, 이력을 다시 쌓는 법](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-01-%EC%9B%90%EA%B2%A9-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%99%80-Rebase-%EC%9D%B4%EB%A0%A5%EC%9D%84-%EB%8B%A4%EC%8B%9C-%EC%8C%93%EB%8A%94-%EB%B2%95)** <sub>Velog</sub><!-- BLOG-POST-LIST:END -->
+- **[코딩 도감 #01 — 협업 워크플로우, 그리고 Git 등록 완료](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-01-%ED%98%91%EC%97%85-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Git-%EB%93%B1%EB%A1%9D-%EC%99%84%EB%A3%8C)** <sub>Velog</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
