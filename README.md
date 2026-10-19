@@ -36,11 +36,11 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Codigdex #02 — Linux Permissions and Users: rwx and chmod](https://medium.com/@codingnanyong/codigdex-02-linux-permissions-and-users-rwx-and-chmod-30c843437363?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
+- **[코딩 도감 #02 — Linux 권한과 사용자: rwx와 chmod](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EA%B6%8C%ED%95%9C%EA%B3%BC-%EC%82%AC%EC%9A%A9%EC%9E%90-rwx%EC%99%80-chmod)** <sub>Velog</sub>
 - **[Codigdex #02 — Linux Paths and Files: Absolute and Relative Paths](https://medium.com/@codingnanyong/codigdex-02-linux-paths-and-files-absolute-and-relative-paths-2db82a243590?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[코딩 도감 #02 — Linux 경로와 파일: 절대·상대 경로](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EA%B2%BD%EB%A1%9C%EC%99%80-%ED%8C%8C%EC%9D%BC-%EC%A0%88%EB%8C%80%EC%83%81%EB%8C%80-%EA%B2%BD%EB%A1%9C)** <sub>Velog</sub>
-- **[Codigdex #02 — First Encounter with Linux: The Shell, the Terminal](https://medium.com/@codingnanyong/codigdex-02-first-encounter-with-linux-the-shell-the-terminal-931e66e2021a?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
-- **[코딩 도감 #02 — Linux 첫 조우: 셸과 터미널](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EC%B2%AB-%EC%A1%B0%EC%9A%B0-%EC%85%B8%EA%B3%BC-%ED%84%B0%EB%AF%B8%EB%84%90)** <sub>Velog</sub>
-- **[Codigdex #01 — The Collaboration Workflow, and Git’s Registration](https://medium.com/@codingnanyong/codigdex-01-the-collaboration-workflow-and-gits-registration-e90e354c451f?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
+- **[Codigdex #02 — First Encounter with Linux: The Shell, the Terminal](https://medium.com/@codingnanyong/codigdex-02-first-encounter-with-linux-the-shell-the-terminal-931e66e2021a?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
