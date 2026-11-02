@@ -36,11 +36,11 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Codigdex #02 — Linux Kernel and Operating System](https://medium.com/@codingnanyong/codigdex-02-linux-kernel-and-operating-system-17c046d5a879?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
+- **[코딩 도감 #02 — Linux 커널과 운영체제](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EC%BB%A4%EB%84%90%EA%B3%BC-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)** <sub>Velog</sub>
 - **[Codigdex #02 — Linux Pipes and Processes](https://medium.com/@codingnanyong/codigdex-02-linux-pipes-and-processes-b8b3d07f6374?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[코딩 도감 #02 — Linux 파이프와 프로세스](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%ED%8C%8C%EC%9D%B4%ED%94%84%EC%99%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)** <sub>Velog</sub>
-- **[Codigdex #02 — Linux Permissions and Users: rwx and chmod](https://medium.com/@codingnanyong/codigdex-02-linux-permissions-and-users-rwx-and-chmod-30c843437363?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
-- **[코딩 도감 #02 — Linux 권한과 사용자: rwx와 chmod](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EA%B6%8C%ED%95%9C%EA%B3%BC-%EC%82%AC%EC%9A%A9%EC%9E%90-rwx%EC%99%80-chmod)** <sub>Velog</sub>
-- **[Codigdex #02 — Linux Paths and Files: Absolute and Relative Paths](https://medium.com/@codingnanyong/codigdex-02-linux-paths-and-files-absolute-and-relative-paths-2db82a243590?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
+- **[Codigdex #02 — Linux Permissions and Users: rwx and chmod](https://medium.com/@codingnanyong/codigdex-02-linux-permissions-and-users-rwx-and-chmod-30c843437363?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
