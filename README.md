@@ -36,11 +36,11 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Codigdex #03 — First Encounter with HTML/CSS: Semantic HTML](https://medium.com/@codingnanyong/codigdex-03-first-encounter-with-html-css-semantic-html-cf83c9589651?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
+- **[코딩 도감 #03 — HTML/CSS 첫 조우, 시맨틱 HTML](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-03-HTMLCSS-%EC%B2%AB-%EC%A1%B0%EC%9A%B0-%EC%8B%9C%EB%A7%A8%ED%8B%B1-HTML)** <sub>Velog</sub>
 - **[Codigdex #02 — Linux Kernel and Operating System](https://medium.com/@codingnanyong/codigdex-02-linux-kernel-and-operating-system-17c046d5a879?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[코딩 도감 #02 — Linux 커널과 운영체제](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EC%BB%A4%EB%84%90%EA%B3%BC-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)** <sub>Velog</sub>
-- **[Codigdex #02 — Linux Pipes and Processes](https://medium.com/@codingnanyong/codigdex-02-linux-pipes-and-processes-b8b3d07f6374?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
-- **[코딩 도감 #02 — Linux 파이프와 프로세스](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%ED%8C%8C%EC%9D%B4%ED%94%84%EC%99%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)** <sub>Velog</sub>
-- **[Codigdex #02 — Linux Permissions and Users: rwx and chmod](https://medium.com/@codingnanyong/codigdex-02-linux-permissions-and-users-rwx-and-chmod-30c843437363?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
+- **[Codigdex #02 — Linux Pipes and Processes](https://medium.com/@codingnanyong/codigdex-02-linux-pipes-and-processes-b8b3d07f6374?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
