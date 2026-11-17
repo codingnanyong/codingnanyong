@@ -36,11 +36,11 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Codigdex #03 — The Box Model: Four Layers of the Style Shell](https://medium.com/@codingnanyong/codigdex-03-the-box-model-four-layers-of-the-style-shell-2f95b94228d8?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
+- **[코딩 도감 #03 — 박스 모델, 스타일 셸의 네 겹](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-03-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%85%B8%EC%9D%98-%EB%84%A4-%EA%B2%B9)** <sub>Velog</sub>
 - **[Codigdex #03 — First Encounter with HTML/CSS: Semantic HTML](https://medium.com/@codingnanyong/codigdex-03-first-encounter-with-html-css-semantic-html-cf83c9589651?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[코딩 도감 #03 — HTML/CSS 첫 조우, 시맨틱 HTML](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-03-HTMLCSS-%EC%B2%AB-%EC%A1%B0%EC%9A%B0-%EC%8B%9C%EB%A7%A8%ED%8B%B1-HTML)** <sub>Velog</sub>
-- **[Codigdex #02 — Linux Kernel and Operating System](https://medium.com/@codingnanyong/codigdex-02-linux-kernel-and-operating-system-17c046d5a879?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
-- **[코딩 도감 #02 — Linux 커널과 운영체제](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-02-Linux-%EC%BB%A4%EB%84%90%EA%B3%BC-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)** <sub>Velog</sub>
-- **[Codigdex #02 — Linux Pipes and Processes](https://medium.com/@codingnanyong/codigdex-02-linux-pipes-and-processes-b8b3d07f6374?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
+- **[Codigdex #02 — Linux Kernel and Operating System](https://medium.com/@codingnanyong/codigdex-02-linux-kernel-and-operating-system-17c046d5a879?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
