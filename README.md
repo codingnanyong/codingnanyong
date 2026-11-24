@@ -36,11 +36,11 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- **[Codigdex #03 — The Cascade: Which CSS Declaration Wins?](https://medium.com/@codingnanyong/codigdex-03-the-cascade-which-css-declaration-wins-fa7a1024a405?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[코딩 도감 #03 — 캐스케이드, 어떤 CSS가 남을까](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-03-%EC%BA%90%EC%8A%A4%EC%BC%80%EC%9D%B4%EB%93%9C-%EC%96%B4%EB%96%A4-CSS%EA%B0%80-%EB%82%A8%EC%9D%84%EA%B9%8C)** <sub>Velog</sub>
 - **[Codigdex #03 — The Box Model: Four Layers of the Style Shell](https://medium.com/@codingnanyong/codigdex-03-the-box-model-four-layers-of-the-style-shell-2f95b94228d8?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
 - **[코딩 도감 #03 — 박스 모델, 스타일 셸의 네 겹](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-03-%EB%B0%95%EC%8A%A4-%EB%AA%A8%EB%8D%B8-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%85%B8%EC%9D%98-%EB%84%A4-%EA%B2%B9)** <sub>Velog</sub>
-- **[Codigdex #03 — First Encounter with HTML/CSS: Semantic HTML](https://medium.com/@codingnanyong/codigdex-03-first-encounter-with-html-css-semantic-html-cf83c9589651?source=rss-f49d4fac340b------2)** <sub>Medium</sub>
-- **[코딩 도감 #03 — HTML/CSS 첫 조우, 시맨틱 HTML](https://velog.io/@codingnanyong/%EC%BD%94%EB%94%A9-%EB%8F%84%EA%B0%90-03-HTMLCSS-%EC%B2%AB-%EC%A1%B0%EC%9A%B0-%EC%8B%9C%EB%A7%A8%ED%8B%B1-HTML)** <sub>Velog</sub><!-- BLOG-POST-LIST:END -->
+- **[Codigdex #03 — First Encounter with HTML/CSS: Semantic HTML](https://medium.com/@codingnanyong/codigdex-03-first-encounter-with-html-css-semantic-html-cf83c9589651?source=rss-f49d4fac340b------2)** <sub>Medium</sub><!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Stack
 
